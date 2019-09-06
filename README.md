@@ -1,3 +1,9 @@
+https://csharp.hotexamples.com/examples/InTheHand.Net.Sockets/BluetoothClient/Connect/php-bluetoothclient-connect-method-examples.html
+
+
+EXAMPLE #11
+
+
 # Connection Bluetooth Desktop
 Sockets de conexão Bluetooth para desktop. Conexão para suporte interno ou adaptador USB.
 
